@@ -6,12 +6,16 @@ This is used to adjust factory settings, we will be enabling FreeSync (on a unsu
 
 1. Power off, then power on
 2. Push left 3 times, then right 1 time, and then press the joystick button
-3. Then press left or right and you should get in service menu.
+3. Then press left and select Menu to open the service menu.
 
 ![Image of Sevice Menu Settings](https://p162.p2.n0.cdn.getcloudapp.com/items/L1u7oqxw/WhatsApp%20Image%202020-04-10%20at%2005.06.12.jpeg?v=6cf42ebcb1707fae3963d28af0e28e30)
 
+1. Enable FreeSync settings by changing the MODEL OPTION to UM58A/UM59
+2. No other service menu changes are necessary so power off, then power on.
+3. Push the joystick button and press left to select the Menu.
+4. Under Picture > Game Adjust > FreeSync turn it On.
 
-The aim to run the screen at around 75Hz and with better colour accuracy.
+The aim is to run the screen at around 75Hz and with better colour accuracy.
 
 ## Configuration on Windows
 The monitor by default on my system doesn't display at the native 2560x1080 resolution. There wasn't even an option for it so I created one.
