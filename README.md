@@ -12,4 +12,9 @@ The monitor by default on my system doesn't display at the native 2560x1080 reso
 I used NVIDIA Control Panel to create a custom resolution. Open it and by right clicking the desktop and selecting NVIDIA Control Panel then select Change Resolution > Customise > Create Custom Resolution.
 
 You may need to tick the box Enable resolutions not exposed by the display.
-![Image of Custom Resolution Settings](https://p162.p2.n0.cdn.getcloudapp.com/items/qGudjLO4/Edit%20Custom%20Resolution%20%26%20Customise%20%26%20NVIDIA%20Control%20Panel%202020-04-10%20at%2012.02.45%20AM.png?v=6eba8d34cf8d313765a717bbb623c3ca)
+![Image of NVIDIA Custom Resolution Settings](https://p162.p2.n0.cdn.getcloudapp.com/items/qGudjLO4/Edit%20Custom%20Resolution%20%26%20Customise%20%26%20NVIDIA%20Control%20Panel%202020-04-10%20at%2012.02.45%20AM.png?v=6eba8d34cf8d313765a717bbb623c3ca)
+
+## [Custom Resolution Utility (CRU)](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU)
+
+![Image of Custom Resolution Utility Settings](
+https://p162.p2.n0.cdn.getcloudapp.com/items/nOu8d0Q8/Parsec%202020-04-10%20at%202.50.10%20AM.png?v=bd6c470a9dd264eb9e4191e0ec3e67a7)
