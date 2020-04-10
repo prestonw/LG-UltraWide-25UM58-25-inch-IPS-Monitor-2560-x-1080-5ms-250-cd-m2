@@ -1,8 +1,15 @@
 # LG UltraWide 25UM58 25-inch IPS Monitor (2560 x 1080, 5ms, 250 cd/m2)
 Here are my optimal settings for the [LG UltraWide 25UM58 25-inch IPS Monitor](https://amzn.to/2VjEetA).
 
-## Entering the Advanced Setup Menu
-This is used to adjust factory settings, bascailly we will be enabling FreeSync and adjusting colour tempertures. Then we will use the normal Settings Menu to adjust user preferences.
+## Entering the Service Menu
+This is used to adjust factory settings, we will be enabling FreeSync (on a unsupported monitor) and adjusting colour tempertures. Then we will use the normal Settings Menu to adjust user preferences.
+
+1. Power off, then power on
+2. Push left 3 times, then right 1 time, and then press the joystick button
+3. Then press left or right and you should get in service menu.
+
+![Image of Sevice Menu Settings](https://p162.p2.n0.cdn.getcloudapp.com/items/L1u7oqxw/WhatsApp%20Image%202020-04-10%20at%2005.06.12.jpeg?v=6cf42ebcb1707fae3963d28af0e28e30)
+
 
 The aim to run the screen at around 75Hz and with better colour accuracy.
 
